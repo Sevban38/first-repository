@@ -1,0 +1,5 @@
+naam1 = (input("wat is u naam: "))
+
+welkom = ("welkom", naam1, "in de wereld van python")
+
+print(welkom)
